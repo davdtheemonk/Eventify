@@ -6,7 +6,7 @@ MODULES: 1. Features: ticketing, exhibition, marketing, analytics, zoom intergra
 
 ## open your terminal.
 
--- git clone https://github.com/Tim-mune/Eventify.git
+-- git clone https://github.com/davdtheemonk/Eventify.git
 
 -- git checkout -b your-branch-name
 

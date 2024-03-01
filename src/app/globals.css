@@ -2,3 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+body{
+background-color: #191a23;
+}
+
+.custom-input {
+    background-color: #20212e;
+  color: white;
+    outline: none;
+    padding-left: 10px;
+    padding-right: 10px;
+  
+  }
